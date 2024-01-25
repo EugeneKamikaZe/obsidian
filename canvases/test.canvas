@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7b96e71f9f78a570","x":-360,"y":-340,"width":400,"height":333,"type":"file","file":"gif.gif"},
+		{"id":"706dc7c75a1b890c","x":-360,"y":80,"width":400,"height":225,"type":"file","file":"ha-ha-ha-woman.gif"},
+		{"id":"59ff270c8ecaf16b","x":200,"y":-340,"width":443,"height":333,"type":"file","file":"ebanyy-rot-etogo-kazino.png"}
+	],
+	"edges":[
+		{"id":"e3cbd232a6b036fc","fromNode":"706dc7c75a1b890c","fromSide":"top","toNode":"7b96e71f9f78a570","toSide":"bottom"},
+		{"id":"51d689f90663a1c9","fromNode":"7b96e71f9f78a570","fromSide":"right","toNode":"59ff270c8ecaf16b","toSide":"left"}
+	]
+}
